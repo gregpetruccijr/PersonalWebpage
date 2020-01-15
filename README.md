@@ -11,5 +11,5 @@ Some of our [latest work](https://pubmed.ncbi.nlm.nih.gov/31343523-estimating-se
 
 
 ### Links
-![twitter](twitter.jpeg)
-![Research Gate](researchgate.png)
+[Twitter](https://twitter.com/GregJPetrucciJr)
+[ResearchGate](https://www.researchgate.net/profile/Greg_Petrucci_Jr)
