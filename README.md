@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Greg J Petrucci Jr.
 
-You can use the [editor on GitHub](https://github.com/gregpetruccijr/PersonalWebpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My research interests include the development of accelerometer data processing metods to estimate aspects of physical behavior.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
