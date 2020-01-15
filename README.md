@@ -5,7 +5,7 @@ I am a graduate student at the University of Massachusetts in the [Department of
 
 ### CV
 
-[download CV](PetrucciJr_CV_1_6_20.pdf)
+[download CV](PetrucciJr_CV_1_6_20.pdf) 
 
 # Header 1
 ## Header 2
