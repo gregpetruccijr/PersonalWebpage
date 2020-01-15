@@ -1,33 +1,12 @@
 ## Greg J Petrucci Jr.
 
-I am a graduate student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My research interests include the development of accelerometer data processing metods to estimate aspects of physical behavior.
+I am a graduate student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology) studying with [John R. Sirard, PhD.](https://www.umass.edu/sphhs/person/faculty/john-r-sirard). I am a research assistant on the [MOCA Project](https://blogs.umass.edu/pahl/research/moca/) and research interests include the development of accelerometer data processing metods to estimate aspects of physical behavior (e.g., physical activity and sedentary behavior). 
+
+Some of our [latest work](https://pubmed.ncbi.nlm.nih.gov/31343523-estimating-sedentary-time-from-a-hip-and-wrist-worn-accelerometer/?from_term=marcotte+medicine+and+science+in+sport+and+exercise&from_pos=1) from the MOCA project assessed the validity of existing methods to estimate sedentary behavior under free-living conditions using the ActiGraph GT3X+ accelerometer.
 
 ![Pic](Funny_pic_sized.jpg)
 
 ### CV
-[download CV](PetrucciJr_CV_1_6_20.pdf) 
+[Download CV](PetrucciJr_CV_1_6_20.pdf) 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gregpetruccijr/PersonalWebpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
