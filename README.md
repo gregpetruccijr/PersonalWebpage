@@ -2,9 +2,9 @@
 
 I am a graduate student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My research interests include the development of accelerometer data processing metods to estimate aspects of physical behavior.
 
+![Pic](Funny_pic_sized.jpg)
 
 ### CV
-
 [download CV](PetrucciJr_CV_1_6_20.pdf) 
 
 # Header 1
