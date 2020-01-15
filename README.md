@@ -3,12 +3,9 @@
 I am a graduate student at the University of Massachusetts in the [Department of Kinesiology](https://www.umass.edu/sphhs/kinesiology). My research interests include the development of accelerometer data processing metods to estimate aspects of physical behavior.
 
 
-### Markdown
+### CV
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+[download CV](files/file.csv.zip)
 
 # Header 1
 ## Header 2
