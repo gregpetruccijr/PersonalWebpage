@@ -1,1 +1,1 @@
-![Pic](UMassheaderFINAL.jpg)
+![Pic](UMass_headerFINAL.jpg)
