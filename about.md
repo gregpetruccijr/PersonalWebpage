@@ -15,3 +15,13 @@ Some of our [latest work](https://pubmed.ncbi.nlm.nih.gov/31343523-estimating-se
 
 ### Links
 [ResearchGate](https://www.researchgate.net/profile/Greg_Petrucci_Jr)
+
+### Random thoughts that I might add to this webpage, 10-24-23
+#1 LinkedIn profile
+#2 Orcid profile
+#3 Google scholar page
+#4 Personal email
+#5 NEACSM page
+#6 ISMPB newletter profile written on me
+#7 Instagram profile?
+
