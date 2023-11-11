@@ -11,7 +11,7 @@ Some of our [latest work](https://pubmed.ncbi.nlm.nih.gov/31343523-estimating-se
 ![Pic](Funny_pic_sized.jpg)
 
 ### CV
-[Download CV](PetrucciJr_CV_10_13_23.pdf) 
+[Download CV](PetrucciJr_CV_11-10-23.pdf) 
 
 ### Links
 [ResearchGate](https://www.researchgate.net/profile/Greg_Petrucci_Jr)
